@@ -29,6 +29,14 @@ To install the bindings via [Composer](https://getcomposer.org/), add the follow
 
 Then run `composer install`
 
+## Regenerate Client
+
+```
+docker run --rm -v "${PWD}:/local" openapitools/openapi-generator-cli generate     -i https://developer.ebay.com/api-docs/master/sell/fulfillment/openapi/3/sell_fulfillment_v1_oas3.yaml   -g php  --git-user-id cdma-numiscorner --git-host github.com --git-repo-id EbayFulFillmentApi --invoker-package 'OpenAPI\EbayFulFillmentClient' --artifact-version 1.0 --release-note "Initial commit" -o /local
+```
+
+
+
 ### Manual Installation
 
 Download the files and include `autoload.php`:
