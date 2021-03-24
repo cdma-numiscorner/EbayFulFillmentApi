@@ -37,7 +37,7 @@ use PHPUnit\Framework\TestCase;
  * @category    Class
  * @description This type is used by base request of the acceptPaymentDispute method.
  * @package     OpenAPI\EbayFulFillmentClient
- * @author      OpenAPI Generator team
+ * @author      OpenAPI Generator teamœ
  * @link        https://openapi-generator.tech
  */
 class AcceptPaymentDisputeRequestTest extends TestCase

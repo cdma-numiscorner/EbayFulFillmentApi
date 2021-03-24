@@ -35,7 +35,6 @@ use PHPUnit\Framework\TestCase;
  * GiftDetailsTest Class Doc Comment
  *
  * @category    Class
- * @description This type contains information about a digital gift card line item that was purchased as a gift, and sent to the recipient by email.
  * @package     OpenAPI\EbayFulFillmentClient
  * @author      OpenAPI Generator team
  * @link        https://openapi-generator.tech

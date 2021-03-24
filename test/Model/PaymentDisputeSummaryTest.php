@@ -35,7 +35,6 @@ use PHPUnit\Framework\TestCase;
  * PaymentDisputeSummaryTest Class Doc Comment
  *
  * @category    Class
- * @description This type is used by each payment dispute that is returned with the getPaymentDisputeSummaries method.
  * @package     OpenAPI\EbayFulFillmentClient
  * @author      OpenAPI Generator team
  * @link        https://openapi-generator.tech
