@@ -36,6 +36,7 @@ use \OpenAPI\EbayFulFillmentClient\ObjectSerializer;
  * LineItemRefund Class Doc Comment
  *
  * @category Class
+ * @description This type contains refund information for a line item.
  * @package  OpenAPI\EbayFulFillmentClient
  * @author   OpenAPI Generator team
  * @link     https://openapi-generator.tech

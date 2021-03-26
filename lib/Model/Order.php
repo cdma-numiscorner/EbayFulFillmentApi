@@ -36,6 +36,7 @@ use \OpenAPI\EbayFulFillmentClient\ObjectSerializer;
  * Order Class Doc Comment
  *
  * @category Class
+ * @description This type contains the details of an order, including information about the buyer, order history, shipping fulfillments, line items, costs, payments, and order fulfillment status.
  * @package  OpenAPI\EbayFulFillmentClient
  * @author   OpenAPI Generator team
  * @link     https://openapi-generator.tech

@@ -36,6 +36,7 @@ use \OpenAPI\EbayFulFillmentClient\ObjectSerializer;
  * PricingSummary Class Doc Comment
  *
  * @category Class
+ * @description This type contains a summary of cumulative costs and charges for all line items of an order, including item price, price adjustments, sales taxes, delivery costs, and order discounts.
  * @package  OpenAPI\EbayFulFillmentClient
  * @author   OpenAPI Generator team
  * @link     https://openapi-generator.tech

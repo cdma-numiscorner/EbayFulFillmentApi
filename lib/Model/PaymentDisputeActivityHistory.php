@@ -36,6 +36,7 @@ use \OpenAPI\EbayFulFillmentClient\ObjectSerializer;
  * PaymentDisputeActivityHistory Class Doc Comment
  *
  * @category Class
+ * @description This type is used by the base response of the getActivities method, and includes a log of all activities of a payment dispute, from creation to resolution.
  * @package  OpenAPI\EbayFulFillmentClient
  * @author   OpenAPI Generator team
  * @link     https://openapi-generator.tech

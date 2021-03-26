@@ -36,6 +36,7 @@ use \OpenAPI\EbayFulFillmentClient\ObjectSerializer;
  * PhoneNumber Class Doc Comment
  *
  * @category Class
+ * @description This type contains a string field representing a telephone number.
  * @package  OpenAPI\EbayFulFillmentClient
  * @author   OpenAPI Generator team
  * @link     https://openapi-generator.tech

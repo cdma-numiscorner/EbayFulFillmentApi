@@ -36,6 +36,7 @@ use \OpenAPI\EbayFulFillmentClient\ObjectSerializer;
  * AddEvidencePaymentDisputeResponse Class Doc Comment
  *
  * @category Class
+ * @description This type is used by the response payload of the addEvidence method. Its only field is an unique identifier of an evidence set.
  * @package  OpenAPI\EbayFulFillmentClient
  * @author   OpenAPI Generator team
  * @link     https://openapi-generator.tech

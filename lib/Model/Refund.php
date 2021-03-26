@@ -36,6 +36,7 @@ use \OpenAPI\EbayFulFillmentClient\ObjectSerializer;
  * Refund Class Doc Comment
  *
  * @category Class
+ * @description This is the base type of the issueRefund response payload. As long as the issueRefund method does not trigger an error, a response payload will be returned.
  * @package  OpenAPI\EbayFulFillmentClient
  * @author   OpenAPI Generator team
  * @link     https://openapi-generator.tech

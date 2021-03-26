@@ -36,6 +36,7 @@ use \OpenAPI\EbayFulFillmentClient\ObjectSerializer;
  * PaymentSummary Class Doc Comment
  *
  * @category Class
+ * @description This type contains information about the various monetary exchanges that apply to the net balance due for the order.
  * @package  OpenAPI\EbayFulFillmentClient
  * @author   OpenAPI Generator team
  * @link     https://openapi-generator.tech

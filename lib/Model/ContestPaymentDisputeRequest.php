@@ -36,6 +36,7 @@ use \OpenAPI\EbayFulFillmentClient\ObjectSerializer;
  * ContestPaymentDisputeRequest Class Doc Comment
  *
  * @category Class
+ * @description This type is used by the request payload of the contestPaymentDispute method.
  * @package  OpenAPI\EbayFulFillmentClient
  * @author   OpenAPI Generator team
  * @link     https://openapi-generator.tech

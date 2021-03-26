@@ -36,6 +36,7 @@ use \OpenAPI\EbayFulFillmentClient\ObjectSerializer;
  * ExtendedContact Class Doc Comment
  *
  * @category Class
+ * @description This type contains shipping and contact information for a buyer or an eBay shipping partner.
  * @package  OpenAPI\EbayFulFillmentClient
  * @author   OpenAPI Generator team
  * @link     https://openapi-generator.tech

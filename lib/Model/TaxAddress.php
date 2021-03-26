@@ -36,6 +36,7 @@ use \OpenAPI\EbayFulFillmentClient\ObjectSerializer;
  * TaxAddress Class Doc Comment
  *
  * @category Class
+ * @description This container consists of address information that can be used by sellers for tax purpose.
  * @package  OpenAPI\EbayFulFillmentClient
  * @author   OpenAPI Generator team
  * @link     https://openapi-generator.tech

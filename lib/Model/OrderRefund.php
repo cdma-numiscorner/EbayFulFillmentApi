@@ -36,6 +36,7 @@ use \OpenAPI\EbayFulFillmentClient\ObjectSerializer;
  * OrderRefund Class Doc Comment
  *
  * @category Class
+ * @description This type contains information about a refund issued for an order. This does not include line item level refunds.
  * @package  OpenAPI\EbayFulFillmentClient
  * @author   OpenAPI Generator team
  * @link     https://openapi-generator.tech

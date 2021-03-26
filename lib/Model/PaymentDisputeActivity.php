@@ -36,6 +36,7 @@ use \OpenAPI\EbayFulFillmentClient\ObjectSerializer;
  * PaymentDisputeActivity Class Doc Comment
  *
  * @category Class
+ * @description This type is used by each recorded activity on a payment dispute, from creation to resolution.
  * @package  OpenAPI\EbayFulFillmentClient
  * @author   OpenAPI Generator team
  * @link     https://openapi-generator.tech

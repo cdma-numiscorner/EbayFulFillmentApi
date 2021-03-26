@@ -36,6 +36,7 @@ use \OpenAPI\EbayFulFillmentClient\ObjectSerializer;
  * LineItemReference Class Doc Comment
  *
  * @category Class
+ * @description This type identifies the line item and quantity of that line item that comprises one fulfillment, such as a shipping package.
  * @package  OpenAPI\EbayFulFillmentClient
  * @author   OpenAPI Generator team
  * @link     https://openapi-generator.tech

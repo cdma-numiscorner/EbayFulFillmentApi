@@ -36,6 +36,7 @@ use \OpenAPI\EbayFulFillmentClient\ObjectSerializer;
  * ErrorParameter Class Doc Comment
  *
  * @category Class
+ * @description This type contains the name and value of an input parameter that contributed to a specific error or warning condition.
  * @package  OpenAPI\EbayFulFillmentClient
  * @author   OpenAPI Generator team
  * @link     https://openapi-generator.tech

@@ -36,6 +36,7 @@ use \OpenAPI\EbayFulFillmentClient\ObjectSerializer;
  * MonetaryTransaction Class Doc Comment
  *
  * @category Class
+ * @description This type is used to provide details about one or more monetary transactions that occur as part of a payment dispute.
  * @package  OpenAPI\EbayFulFillmentClient
  * @author   OpenAPI Generator team
  * @link     https://openapi-generator.tech

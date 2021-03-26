@@ -36,6 +36,7 @@ use \OpenAPI\EbayFulFillmentClient\ObjectSerializer;
  * DeliveryCost Class Doc Comment
  *
  * @category Class
+ * @description This type contains a breakdown of all costs associated with the fulfillment of a line item.
  * @package  OpenAPI\EbayFulFillmentClient
  * @author   OpenAPI Generator team
  * @link     https://openapi-generator.tech

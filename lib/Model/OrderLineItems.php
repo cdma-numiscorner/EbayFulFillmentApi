@@ -36,6 +36,7 @@ use \OpenAPI\EbayFulFillmentClient\ObjectSerializer;
  * OrderLineItems Class Doc Comment
  *
  * @category Class
+ * @description This type is used by the lineItems array that is used to identify one or more line items in the order with the payment dispute.
  * @package  OpenAPI\EbayFulFillmentClient
  * @author   OpenAPI Generator team
  * @link     https://openapi-generator.tech

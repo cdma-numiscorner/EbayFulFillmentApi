@@ -36,6 +36,7 @@ use \OpenAPI\EbayFulFillmentClient\ObjectSerializer;
  * IssueRefundRequest Class Doc Comment
  *
  * @category Class
+ * @description The base type used by the request payload of the issueRefund method.
  * @package  OpenAPI\EbayFulFillmentClient
  * @author   OpenAPI Generator team
  * @link     https://openapi-generator.tech

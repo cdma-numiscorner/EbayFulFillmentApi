@@ -36,6 +36,7 @@ use \OpenAPI\EbayFulFillmentClient\ObjectSerializer;
  * Program Class Doc Comment
  *
  * @category Class
+ * @description This type is used by the program container, which is returned for order line items eligible for the Authenticity Guarantee service.
  * @package  OpenAPI\EbayFulFillmentClient
  * @author   OpenAPI Generator team
  * @link     https://openapi-generator.tech

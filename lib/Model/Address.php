@@ -36,6 +36,7 @@ use \OpenAPI\EbayFulFillmentClient\ObjectSerializer;
  * Address Class Doc Comment
  *
  * @category Class
+ * @description This type contains the details of a geographical address.
  * @package  OpenAPI\EbayFulFillmentClient
  * @author   OpenAPI Generator team
  * @link     https://openapi-generator.tech
@@ -63,7 +64,7 @@ class Address implements ModelInterface, ArrayAccess, \JsonSerializable
         'address_line1' => 'string',
         'address_line2' => 'string',
         'city' => 'string',
-        'country' => 'string',
+        'country_code' => 'string',
         'county' => 'string',
         'postal_code' => 'string',
         'state_or_province' => 'string'
@@ -80,7 +81,7 @@ class Address implements ModelInterface, ArrayAccess, \JsonSerializable
         'address_line1' => null,
         'address_line2' => null,
         'city' => null,
-        'country' => null,
+        'country_code' => null,
         'county' => null,
         'postal_code' => null,
         'state_or_province' => null
@@ -116,7 +117,7 @@ class Address implements ModelInterface, ArrayAccess, \JsonSerializable
         'address_line1' => 'addressLine1',
         'address_line2' => 'addressLine2',
         'city' => 'city',
-        'country' => 'country',
+        'country_code' => 'countryCode',
         'county' => 'county',
         'postal_code' => 'postalCode',
         'state_or_province' => 'stateOrProvince'
@@ -131,7 +132,7 @@ class Address implements ModelInterface, ArrayAccess, \JsonSerializable
         'address_line1' => 'setAddressLine1',
         'address_line2' => 'setAddressLine2',
         'city' => 'setCity',
-        'country' => 'setCountry',
+        'country_code' => 'setCountryCode',
         'county' => 'setCounty',
         'postal_code' => 'setPostalCode',
         'state_or_province' => 'setStateOrProvince'
@@ -146,7 +147,7 @@ class Address implements ModelInterface, ArrayAccess, \JsonSerializable
         'address_line1' => 'getAddressLine1',
         'address_line2' => 'getAddressLine2',
         'city' => 'getCity',
-        'country' => 'getCountry',
+        'country_code' => 'getCountryCode',
         'county' => 'getCounty',
         'postal_code' => 'getPostalCode',
         'state_or_province' => 'getStateOrProvince'
@@ -215,7 +216,7 @@ class Address implements ModelInterface, ArrayAccess, \JsonSerializable
         $this->container['address_line1'] = $data['address_line1'] ?? null;
         $this->container['address_line2'] = $data['address_line2'] ?? null;
         $this->container['city'] = $data['city'] ?? null;
-        $this->container['country'] = $data['country'] ?? null;
+        $this->container['country_code'] = $data['country_code'] ?? null;
         $this->container['county'] = $data['county'] ?? null;
         $this->container['postal_code'] = $data['postal_code'] ?? null;
         $this->container['state_or_province'] = $data['state_or_province'] ?? null;
@@ -318,25 +319,25 @@ class Address implements ModelInterface, ArrayAccess, \JsonSerializable
     }
 
     /**
-     * Gets country
+     * Gets country_code
      *
      * @return string|null
      */
-    public function getCountry()
+    public function getCountryCode()
     {
-        return $this->container['country'];
+        return $this->container['country_code'];
     }
 
     /**
-     * Sets country
+     * Sets country_code
      *
-     * @param string|null $country The country of the shipping destination, represented as a two-letter ISO 3166-1 alpha-2 country code. For example, US represents the United States, and DE represents Germany. For implementation help, refer to <a href='https://developer.ebay.com/api-docs/sell/fulfillment/types/ba:CountryCodeEnum'>eBay API documentation</a>
+     * @param string|null $country_code The country of the shipping destination, represented as a two-letter ISO 3166-1 alpha-2 country code. For example, US represents the United States, and DE represents Germany. For implementation help, refer to <a href='https://developer.ebay.com/api-docs/sell/fulfillment/types/ba:CountryCodeEnum'>eBay API documentation</a>
      *
      * @return self
      */
-    public function setCountry($country)
+    public function setCountryCode($country_code)
     {
-        $this->container['country'] = $country;
+        $this->container['country_code'] = $country_code;
 
         return $this;
     }

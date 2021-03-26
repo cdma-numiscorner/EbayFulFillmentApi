@@ -36,6 +36,7 @@ use \OpenAPI\EbayFulFillmentClient\ObjectSerializer;
  * SimpleAmount Class Doc Comment
  *
  * @category Class
+ * @description This type defines the monetary value of the payment dispute, and the currency used.
  * @package  OpenAPI\EbayFulFillmentClient
  * @author   OpenAPI Generator team
  * @link     https://openapi-generator.tech

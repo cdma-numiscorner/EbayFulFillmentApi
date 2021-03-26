@@ -36,6 +36,7 @@ use \OpenAPI\EbayFulFillmentClient\ObjectSerializer;
  * FileEvidence Class Doc Comment
  *
  * @category Class
+ * @description This type is used to store the unique identifier of an evidence file. Evidence files are used by seller to contest a payment dispute.
  * @package  OpenAPI\EbayFulFillmentClient
  * @author   OpenAPI Generator team
  * @link     https://openapi-generator.tech

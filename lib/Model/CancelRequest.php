@@ -36,6 +36,7 @@ use \OpenAPI\EbayFulFillmentClient\ObjectSerializer;
  * CancelRequest Class Doc Comment
  *
  * @category Class
+ * @description This type contains information about a buyer request to cancel an order.
  * @package  OpenAPI\EbayFulFillmentClient
  * @author   OpenAPI Generator team
  * @link     https://openapi-generator.tech

@@ -36,6 +36,7 @@ use \OpenAPI\EbayFulFillmentClient\ObjectSerializer;
  * PostSaleAuthenticationProgram Class Doc Comment
  *
  * @category Class
+ * @description This type is used to provide the status and outcome of an order line item going through the Authenticity Guarantee verification process.
  * @package  OpenAPI\EbayFulFillmentClient
  * @author   OpenAPI Generator team
  * @link     https://openapi-generator.tech

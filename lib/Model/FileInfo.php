@@ -36,6 +36,7 @@ use \OpenAPI\EbayFulFillmentClient\ObjectSerializer;
  * FileInfo Class Doc Comment
  *
  * @category Class
+ * @description This type is used by the files array, which shows the name, ID, file type, and upload date for each provided evidential file.
  * @package  OpenAPI\EbayFulFillmentClient
  * @author   OpenAPI Generator team
  * @link     https://openapi-generator.tech

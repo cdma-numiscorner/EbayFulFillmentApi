@@ -36,6 +36,7 @@ use \OpenAPI\EbayFulFillmentClient\ObjectSerializer;
  * LineItemProperties Class Doc Comment
  *
  * @category Class
+ * @description This type contains information about the eBay programs under which a line item was listed and sold.
  * @package  OpenAPI\EbayFulFillmentClient
  * @author   OpenAPI Generator team
  * @link     https://openapi-generator.tech

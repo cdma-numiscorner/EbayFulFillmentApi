@@ -36,6 +36,7 @@ use \OpenAPI\EbayFulFillmentClient\ObjectSerializer;
  * AppliedPromotion Class Doc Comment
  *
  * @category Class
+ * @description This type contains information about a sales promotion that is applied to a line item.
  * @package  OpenAPI\EbayFulFillmentClient
  * @author   OpenAPI Generator team
  * @link     https://openapi-generator.tech

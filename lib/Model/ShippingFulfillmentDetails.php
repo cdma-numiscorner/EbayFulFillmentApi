@@ -36,6 +36,7 @@ use \OpenAPI\EbayFulFillmentClient\ObjectSerializer;
  * ShippingFulfillmentDetails Class Doc Comment
  *
  * @category Class
+ * @description This type contains the details for creating a fulfillment for an order.
  * @package  OpenAPI\EbayFulFillmentClient
  * @author   OpenAPI Generator team
  * @link     https://openapi-generator.tech

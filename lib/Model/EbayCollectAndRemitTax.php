@@ -36,6 +36,7 @@ use \OpenAPI\EbayFulFillmentClient\ObjectSerializer;
  * EbayCollectAndRemitTax Class Doc Comment
  *
  * @category Class
+ * @description This type contains information about the type and amount of tax that eBay will collect and remit to the state, province, country, or other taxing authority in the buyer&#39;s location, as required by that taxing authority. &#39;Collect and Remit&#39; tax includes US state-mandated sales tax and &#39;Goods and Services&#39; tax that is applicable to Australian and New Zealand sellers.
  * @package  OpenAPI\EbayFulFillmentClient
  * @author   OpenAPI Generator team
  * @link     https://openapi-generator.tech

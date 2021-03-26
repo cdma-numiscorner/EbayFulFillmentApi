@@ -36,6 +36,7 @@ use \OpenAPI\EbayFulFillmentClient\ObjectSerializer;
  * PaymentDisputeOutcomeDetail Class Doc Comment
  *
  * @category Class
+ * @description This type is used by the resolution container that is returned for payment disputes that have been resolved.
  * @package  OpenAPI\EbayFulFillmentClient
  * @author   OpenAPI Generator team
  * @link     https://openapi-generator.tech

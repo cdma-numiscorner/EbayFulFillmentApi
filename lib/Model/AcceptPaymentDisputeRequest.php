@@ -36,6 +36,7 @@ use \OpenAPI\EbayFulFillmentClient\ObjectSerializer;
  * AcceptPaymentDisputeRequest Class Doc Comment
  *
  * @category Class
+ * @description This type is used by base request of the acceptPaymentDispute method.
  * @package  OpenAPI\EbayFulFillmentClient
  * @author   OpenAPI Generator team
  * @link     https://openapi-generator.tech
